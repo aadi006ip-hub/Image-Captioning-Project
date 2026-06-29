@@ -9,7 +9,7 @@ An end-to-end Deep Learning pipeline built from scratch using **PyTorch** to gen
 
 [![Streamlit App](streamlit.jpg)](https://image-captioning-project-9rkwwvmrgxtg3zhqttpu2f.streamlit.app/)
 
-[![Streamlit UI Demo](Testt.jpg)](PASTE_YOUR_UI_DEMO_VIDEO_OR_SCREENSHOT_URL_HERE)
+[![Streamlit UI Demo](Testt.png)](PASTE_YOUR_UI_DEMO_VIDEO_OR_SCREENSHOT_URL_HERE)
 
 ---
 
