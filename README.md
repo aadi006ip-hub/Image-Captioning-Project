@@ -50,6 +50,7 @@ The pipeline processes input images through a spatial feature extractor, maps te
 ├── experimentation.ipynb  # Interactive training, validation, and inference loops
 └── README.md              # Project documentation
 
+
 ```
 ## 📈 Training Performance & Evolution
 The model was trained locally using custom batch-sizing logic to optimize CPU-bound matrix multiplications.
@@ -62,6 +63,6 @@ The model was trained locally using custom batch-sizing logic to optimize CPU-bo
 | *Initial state: Higher loss with basic token generation attempts.* | *Optimized state: Final Loss dropped to 2.4481 with structured captions.* |
 
 
-[![Streamlit UI Demo](Testt.png)]
+![Streamlit UI Demo](Testt.png)
 
    
