@@ -7,9 +7,9 @@ An end-to-end Deep Learning pipeline built from scratch using **PyTorch** to gen
 ## 🔗 Live Deployments & UI Links
 ✨ **Click on the badges below to interact with the project and view the user interface:**
 
-[![Streamlit App](streamlit.jpg)](https://image-captioning-xce6dj3dwcueukripnczuy.streamlit.app/)
+[![Streamlit App](streamlit.jpg)](https://image-captioning-project-9rkwwvmrgxtg3zhqttpu2f.streamlit.app/)
 
-[![Streamlit UI Demo](https://img.shields.io/badge/Streamlit_UI-Application_Demo_Link-008080?style=for-the-badge&logo=streamlit&logoColor=white)](PASTE_YOUR_UI_DEMO_VIDEO_OR_SCREENSHOT_URL_HERE)
+[![Streamlit UI Demo](Testt.jpg)](PASTE_YOUR_UI_DEMO_VIDEO_OR_SCREENSHOT_URL_HERE)
 
 ---
 
