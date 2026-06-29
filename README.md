@@ -9,8 +9,6 @@ An end-to-end Deep Learning pipeline built from scratch using **PyTorch** to gen
 
 [![Streamlit App](streamlit.jpg)](https://image-captioning-project-9rkwwvmrgxtg3zhqttpu2f.streamlit.app/)
 
-[![Streamlit UI Demo](Testt.png)](PASTE_YOUR_UI_DEMO_VIDEO_OR_SCREENSHOT_URL_HERE)
-
 ---
 
 ## 🚀 Key Features
@@ -63,22 +61,7 @@ The model was trained locally using custom batch-sizing logic to optimize CPU-bo
 | <img src="After 1 epoch.png" width="450" alt="Epoch 1 Training Loss"/> | <img src="After 5 epochs.png" width="450" alt="Epoch 5 Success Details"/> |
 | *Initial state: Higher loss with basic token generation attempts.* | *Optimized state: Final Loss dropped to 2.4481 with structured captions.* |
 
-## 🏃 Setup & Local Execution
- 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/aadi006ip-hub/Image-Captioning.git](https://github.com/aadi006ip-hub/Image-Captioning.git)
-   cd Image-Captioning
+
+[![Streamlit UI Demo](Testt.png)]
+
    
-   ```
- 2. **Run FastAPI Backend:**
-   ```bash
-   uvicorn app:app --reload --port 8000
-   
-   ```
- 3. **Launch Local Streamlit Web Application:**
-   ```bash
-   streamlit run app.py
-   
-   ```
-   Open http://localhost:8501 in your browser to test live images.
-```
